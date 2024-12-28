@@ -1,0 +1,24 @@
+.border{ border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 120px;
+L}
+.border{
+}
+body{
+    background-color: beige;
+}
+.firsth1{
+    font-weight: bold;
+}
+
+.firsth2{
+    font-weight: bold;
+    
+}
+.hr{
+    font-weight: bolder;
+}
+span{color: greenyellow;}
+p{ 
+    letter-spacing: 5px;
+}
